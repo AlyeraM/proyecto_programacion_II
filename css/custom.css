@@ -1,0 +1,16 @@
+.panel-info{
+  background-color: #898d90;
+}
+
+#guardar_datos{
+  background-color: #086945d1;
+}
+#guardar_datos:hover{
+  background-color: #3cb98b;  
+}
+
+.footer{
+  margin-top: 20px;
+}
+
+

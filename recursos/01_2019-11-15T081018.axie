@@ -1,0 +1,50 @@
+<!-- 
+ *   Anonymized pseudo-MBTI script generated on 2019-11-15 08:10:17
+ *   Source terminal: MOVE2500-DESARROLLO (01)
+-->
+
+  <parameterSet templateId="iPOSAppParams" templateVersion="00003">
+    <parameter fieldId="02.1.0210" isNull="true"/>
+    <parameter fieldId="02.1.0211" isNull="true"/>
+    <parameter fieldId="02.1.0214" isNull="true"/>
+    <parameter fieldId="02.1.0215" isNull="true"/>
+    <parameter fieldId="02.1.0212" isNull="true"/>
+    <parameter fieldId="02.1.0213" isNull="true"/>
+    <parameter fieldId="0105" value="$"/>
+    <parameter fieldId="0106" value="928"/>
+    <parameter fieldId="0103" value="1111"/>
+    <parameter fieldId="0104" value="Bs"/>
+    <parameter fieldId="0102" value="1111"/>
+    <parameter fieldId="0108.1.010801" value="APLICATIVO EUGENIO MOVE2500"/>
+    <parameter fieldId="0112.0112_12" value="1"/>
+    <parameter fieldId="02.1.0218" isNull="true"/>
+    <parameter fieldId="02.1.0219" isNull="true"/>
+    <parameter fieldId="0112.0112_10" value="1"/>
+    <parameter fieldId="02.1.0216" isNull="true"/>
+    <parameter fieldId="0112.0112_11" value="1"/>
+    <parameter fieldId="02.1.0217" isNull="true"/>
+    <parameter fieldId="02.1.0221" isNull="true"/>
+    <parameter fieldId="02.1.0222" isNull="true"/>
+    <parameter fieldId="02.1.0220" isNull="true"/>
+    <parameter fieldId="02.1.0203" isNull="true"/>
+    <parameter fieldId="02.1.0204" isNull="true"/>
+    <parameter fieldId="02.1.0201" isNull="true"/>
+    <parameter fieldId="02.1.0223" isNull="true"/>
+    <parameter fieldId="02.1.0202" isNull="true"/>
+    <parameter fieldId="02.1.0224" isNull="true"/>
+    <parameter fieldId="0112.0112_5" value="1"/>
+    <parameter fieldId="0112.0112_6" isNull="true"/>
+    <parameter fieldId="0112.0112_7" value="1"/>
+    <parameter fieldId="0112.0112_8" value="1"/>
+    <parameter fieldId="0112.0112_1" value="1"/>
+    <parameter fieldId="0112.0112_2" isNull="true"/>
+    <parameter fieldId="0112.0112_3" isNull="true"/>
+    <parameter fieldId="0112.0112_4" isNull="true"/>
+    <parameter fieldId="02.1.0207" isNull="true"/>
+    <parameter fieldId="02.1.0208" isNull="true"/>
+    <parameter fieldId="02.1.0205" isNull="true"/>
+    <parameter fieldId="0101.1.010101" value="BNC_J-30984132-7"/>
+    <parameter fieldId="02.1.0206" isNull="true"/>
+    <parameter fieldId="0112.0112_9" value="1"/>
+    <parameter fieldId="02.1.0209" isNull="true"/>
+  </parameterSet>

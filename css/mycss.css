@@ -1,0 +1,38 @@
+#form-crear{
+
+float:left; 
+margin-left: 20px;	
+width: 65%;
+margin-bottom: 100px;
+}
+#check {
+width:20px;
+height:20px;
+}
+#info{
+float:right; 
+margin-right: 10px;	
+width: 30%;
+margin-bottom: 100px;
+}
+#graficas{
+margin-bottom: 100px;
+	
+}
+#volver{
+	position:absolute;
+	top: 100%;
+	margin-bottom: 50px;
+	left: 50%
+
+}
+
+#volver > button > a {
+	color: white !important;
+
+}
+
+#volver > button > a:link {
+	text-decoration:none;
+
+}
